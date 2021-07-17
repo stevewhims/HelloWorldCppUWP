@@ -4,7 +4,7 @@ A simple C++/WinRT UWP Hello, World! app ready to port to the Windows App SDK.
 
 ## How the project was created
 
-This project was created from the **Blank App (C++/WinRT)** [Visual Studio](https://visualstudio.microsoft.com/downloads/) project template. The project targets the most recent release (not preview) of the platform (19041 at time of writing).
+This project was created from the **Blank App (C++/WinRT)** [Visual Studio](https://visualstudio.microsoft.com/downloads/) project template. The project targets the most recent release (not preview) of the client operating system (19041 at time of writing).
 
 **Note**. We could have chosen other UI types to showcase in the UI here. But be aware that WinUI doesn't yet support Maps, MediaElement, nor InkCanvas.
 
